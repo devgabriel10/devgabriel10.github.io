@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(9, 15, 38);
+    font-size: 20px;
+}
+
+p{
+    font-family: Bookman, URW Bookman L, serif;
+}
+
+#secao1{
+    margin-left: 550px;
+    margin-right: 550px;
+    margin-top: 30px;
+}   
+
+#Foto {
+    border-radius: 70%;
+}
+.Nome {
+    font-size: 3em;
+    color: white;
+    margin-left: 420px;
+    margin-right: 420px;
+    margin-top: 30px;
+}
+
+.estudante{
+    font-size: 1.5em;
+    color: white;
+    margin-left: 420px;
+    margin-right: 420px;
+}
+
+.trybe{
+    color: rgb(189, 255, 131);
+    text-decoration: none;
+    
+}
