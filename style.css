@@ -5,34 +5,69 @@ body {
 
 p{
     font-family: Bookman, URW Bookman L, serif;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+li{
+    color: white;
 }
 
 #secao1{
-    margin-left: 550px;
-    margin-right: 550px;
-    margin-top: 30px;
+    margin-top: 60px;
+    text-align: center;
 }   
 
 #Foto {
     border-radius: 70%;
 }
+#secao2{
+    margin-top: 0px;
+    text-align: center;
+}
+
 .Nome {
     font-size: 3em;
     color: white;
-    margin-left: 420px;
-    margin-right: 420px;
-    margin-top: 30px;
+    margin-top: 20px;
 }
 
 .estudante{
+    padding-top: 10px;
     font-size: 1.5em;
     color: white;
-    margin-left: 420px;
-    margin-right: 420px;
 }
 
 .trybe{
     color: rgb(189, 255, 131);
     text-decoration: none;
     
+}
+
+#secao3{
+    text-align: center;
+    margin-top: 110px;
+}
+
+#secao3 ul {
+    padding:0px;
+    margin:0px;
+    list-style:none;
+}
+
+#secao3 ul li{
+    display: inline;
+}
+
+#secao3 ul li a{
+    color: white;
+    padding-left: 40px;
+    padding-right: 40px;
 }
