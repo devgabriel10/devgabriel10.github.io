@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(9, 15, 38);
+    font-size: 20px;
+    color: white;
+}
+
+p {
+    color: whitesmoke;
+    font-family: Bookman, URW Bookman L, serif;
+}
+
+a:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.secao1{
+    display: flex;
+    margin: 20px 0px;
+    max-width: 100%;
+    padding-left: 55px;
+
+}   
+
+.secao1 p{
+    padding-left: 55px;
+    padding-top: 60px;
+}
+
+
+.foto{
+    width: 150px;
+    height: 200px;
+    border-radius: 50%;
+    box-shadow: 0 10px 6px -6px black;
+}
+
+.trybe{
+    color: rgb(189, 255, 131);
+    text-decoration: none;
+}   
+
+.secao2{
+    text-align: center;
+    margin: 50px 0px;
+    font-size: 2em;
+}
+
+li a {
+    color: white;
+    text-decoration: none;
+}
+
+li {
+    display: inline;
+    padding: 0px 20px;
+}
+
+.secao3{
+    margin: 150px 0px;
+    text-align: center;
+}
